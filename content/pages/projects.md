@@ -6,7 +6,7 @@ template: "page"
 I like to start new project. No, **I LOVE** to start new projects. Starting new
 projects give me the opportunity to **go deep into one single subject and learn**.
 
-![West side project story - commitstrip.com](http://www.commitstrip.com/wp-content/uploads/2014/11/Strip-Side-project-650-finalenglish.jpg)
+![West side project story - commitstrip.com](https://www.commitstrip.com/wp-content/uploads/2014/11/Strip-Side-project-650-finalenglish.jpg)
 
 My [personal github](https://github.com/marcopeg) is filled up with short life span repos.
 But some of them are more interesting than others and I plan to keep working on a more
